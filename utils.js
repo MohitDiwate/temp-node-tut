@@ -1,5 +1,5 @@
-const sayHi=(name)=>{
-    console.log(`Hello My name is ${name}`);
+const sayHi = (name)=>{
+    console.log(`Hello ${name}`);
 }
 
 module.exports=sayHi;

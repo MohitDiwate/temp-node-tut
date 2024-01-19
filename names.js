@@ -1,4 +1,4 @@
-let name1='Mohit';
-let name2='Sakshi';
+const name1='Mohit';
+const name2='Sakshi';
 
 module.exports={name1,name2};
